@@ -1,12 +1,6 @@
 /*
  * main.cpp
  *
- *  Created on: Feb 25, 2020
- *      Author: vmuser
- */
-/*
- * main.cpp
- *
  *  Created on: Jan 10, 2020
  *      Author: Bruce Chin
  */
